@@ -25,4 +25,4 @@ Currently, I am pursuing MS in Computational Data Science at Georgia Tech. Befor
 
 ## What do I do for fun
 1) Love to play outdoor sports.
-2) Try out different openings in chess.
+2) Chess.
