@@ -20,7 +20,7 @@ I am a decision scientist interested in solving business oriented machine learni
 Currently, I am pursuing MS in Computational Data Science at Georgia Tech. Before coming to Georgia Tech, I have 6 years of experience working in analytics and data science field. I have worked with Credit Suisse(Counterparty Credit Risk) and Airtel (Credit Risk). I have graudated from IIT Guwahati with a degree in Chemical Engineering.
 
 ## Recent achievements: 
-1) Rookie Rockstar award (Awarded to 4% of employees within Airtel Financial Services).
+Rockstar award (Awarded to 4% of employees within Airtel Financial Services).
 
 ## What do I do for fun
 1) Love to play outdoor sports.
